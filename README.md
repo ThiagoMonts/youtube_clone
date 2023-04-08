@@ -1,3 +1,9 @@
+https://youtu.be/FHTbsZEJspU
+
+https://github.com/adrianhajdin/project_youtube_clone/tree/main/src
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
